@@ -1,0 +1,15 @@
+This project analyzes gene expression data across human tissues (Liver, Brain, Heart).  
+Key steps include:
+- Data cleaning using Pandas
+- Average expression calculation by gene
+- Pivot tables for gene-tissue matrix
+- Bar chart visualization using Matplotlib
+
+## Files
+- gene_expression.csv: Simulated gene expression data
+- Gene_Expression_Analysis.ipynb: Jupyter notebook with full analysis
+
+## Skills Used
+- Python (Pandas, Matplotlib)
+- Data Wrangling & Grouping
+- Visualization
